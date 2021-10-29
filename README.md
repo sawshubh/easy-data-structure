@@ -1,2 +1,2 @@
 # easy-data-structure
-coding problem's asked in top companies + some data structure.
+coding problems asked in top companies + some data structure.
